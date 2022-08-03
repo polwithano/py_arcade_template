@@ -1,0 +1,8 @@
+video:
+  anti_aliasing: True
+  width: 768
+  height: 768
+  full_screen: False
+  frame_rate_limit: False
+  max_framerate: 60
+  v_sync: True
